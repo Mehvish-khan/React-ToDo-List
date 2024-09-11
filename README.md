@@ -24,7 +24,7 @@ I'm a passionate [Your Role/Profession] with a love for coding, innovation, and 
 
 ## 🔥 GitHub Stats & Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical) <!-- GitHub Streak Monitor -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical&hide_border=true)](https://git.io/streak-stats) <!-- Alternative GitHub Streak Monitor -->
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=prs&theme=radical&line_height=24) <!-- GitHub Stats Graph -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical) <!-- Top Languages Graph -->
