@@ -1,14 +1,18 @@
-# Hi there! 👋 I'm [Your Name]
+<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
 
-I'm a passionate [Your Role/Profession] with a love for coding, innovation, and continuous learning. I thrive on tackling challenging problems, contributing to open-source, and sharing knowledge with the community.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Profile Views" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+<p align="center">
+  <img src="https://your-image-link.com/image.png" alt="Illustration of a girl profile" width="200"/> <!-- Replace with your custom illustration URL -->
+</p>
 
-![Illustration of a girl profile](https://your-image-link.com/image.png) <!-- Replace with your custom illustration URL -->
+---
 
 ## 🚀 About Me
 
-- 🎓 I have a background in [Your Degree or Field, e.g., "Computer Science", "Information Technology", "BBA"].
+- 🎓 I have a background in **[Your Degree or Field, e.g., "Computer Science", "Information Technology", "BBA"]**.
 - 🌱 I’m currently focusing on learning more about **[Current Learning Interests, e.g., "Machine Learning", "Blockchain", "Cybersecurity", "Cloud Computing"]**.
 - 🦁 I have a deep interest in **wildlife conservation** and have spent my childhood in Kanha National Park.
 - 💡 I enjoy working on full-stack projects and currently exploring **Salesforce Lightning** for building management dashboards.
@@ -17,21 +21,35 @@ I'm a passionate [Your Role/Profession] with a love for coding, innovation, and 
 
 ## 🛠️ My Tech Stack
 
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-- **Web Development**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-- **Cloud Platforms**: ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-- **Tools & Technologies**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</p>
 
 ## 🔥 GitHub Stats & Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical&hide_border=true)](https://git.io/streak-stats) <!-- Alternative GitHub Streak Monitor -->
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=prs&theme=radical&line_height=24) <!-- GitHub Stats Graph -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical) <!-- Top Languages Graph -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" /> <!-- GitHub Streak -->
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" /> <!-- GitHub Stats Graph -->
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> <!-- Top Languages Graph -->
+</div>
 
 ## 📊 GitHub Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) <!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" /> <!-- GitHub Activity Graph -->
+</div>
 
 ## 🔭 Current Projects
 
@@ -57,4 +75,4 @@ If you’re interested in collaboration, have a project idea, or just want to ch
 
 ---
 
-*“Strive not to be a success, but rather to be of value.” – Albert Einstein*
+<p align="center"><i>“Strive not to be a success, but rather to be of value.” – Albert Einstein</i></p>
