@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/2b26b1685fcd6bfc2ed9e2e1b50b108a.gif" alt="Coding Girl Illustration" width="200"/>
+  <img src="https://lottiefiles.com/.../girl-on-computer-with-idea.gif" alt="Coding Girl Illustration" width="200"/>
 </p>
+
 
 ---
 
