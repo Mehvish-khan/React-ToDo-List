@@ -1,11 +1,9 @@
 <h1 align="center">Hi there! 👋 I'm Mehvish Khan</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mehvish-khan&color=blue" alt="Profile Views" />
-</p>
+
 
 <p align="center">
-  <img src="https://lottiefiles.com/.../girl-on-computer-with-idea.gif" alt="Coding Girl Illustration" width="200"/>
+  <img src="https://cdn.dribbble.com/userupload/31663014/file/original-04f1d56df8ed8a2dc71d723bdc71d68d.png?resize=752x&vertical=center" width="200"/>
 </p>
 
 
